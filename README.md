@@ -1,6 +1,6 @@
 #### NAME : LINGESWARAN K
 #### REG NO : 212222110022
-# Control of Relay Using IoT controller
+# EXP-02 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
 
